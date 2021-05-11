@@ -1,0 +1,46 @@
+.notePanel{
+    width: 50vw;
+    margin: auto;
+    margin-top: 40px;
+    align-content: center;
+    background-color: aquamarine;
+    box-shadow: blueviolet;
+}
+
+.mat-panel-title{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: blue;
+}
+
+.noteInput{
+    text-align: left;
+    font: 1.2em sans-serif;
+}
+
+mat-form-field{
+    margin: 0% 5% 0% 5%;
+    width: 90%;
+}
+
+.mat-card{
+    margin-top: 8vh;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: paleturquoise;
+    width: 100vw;
+    height: 80vh;
+}
+
+mat-card-header{
+    background-color: turquoise;
+    width: 15vw;
+    height: 35vh;
+    margin: 10px;
+    border-radius: 5%;
+    border: solid 1px black;
+    padding: auto;
+    overflow: auto;
+}

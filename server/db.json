@@ -24,6 +24,36 @@
       "title": "Note 4",
       "text": "Test to clear the Input Fields After post request.",
       "id": 5
+    },
+    {
+      "title": "DOM",
+      "text": "Assignment 1",
+      "id": 6
+    },
+    {
+      "title": "Title",
+      "text": "Test text",
+      "id": 7
+    },
+    {
+      "title": "HELLO",
+      "text": "Assignment ---   1  --   hobbes enabled -   3-4 hrs  \nFork -> clone into local machine\nOpen the cloned folder in vs Code\nOpen terminal and type: npm install\nComplete the coding\nTest the code : ng test/ npm run test \nIf all test cases passes locally\nPush the code to gitlab\nAnd test it in hobbes --  \n99  >=70",
+      "id": 8
+    },
+    {
+      "title": "Title 8",
+      "text": "DI - dependency injection ---  delegation of responsibility \nOne interface ---  derive two classes",
+      "id": 9
+    },
+    {
+      "title": "Test X",
+      "text": "constructor(private  ser:Service){}",
+      "id": 10
+    },
+    {
+      "title": "Test Title",
+      "text": "Reduce tight coupling between objects  ---  loose coupling\n\nHttpCllient class ---  get,post -- can used to interact RestApi\n\nJson-server --  node rest api application --  can be used to perform CRUD operations on any json file .\nJson-server <json filename>  ---  posts, users,favourite\n\nJson file  ---   to persists the data",
+      "id": 11
     }
   ]
 }
